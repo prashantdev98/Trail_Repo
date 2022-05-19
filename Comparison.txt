@@ -1,3 +1,4 @@
 The file is in Remote Repo
 The file is in local Repo
 The file is in staging area
+The file is in Working directory
