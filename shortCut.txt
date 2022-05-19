@@ -1,1 +1,2 @@
 this file is added by shortctut
+This is faster
